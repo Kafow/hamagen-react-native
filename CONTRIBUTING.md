@@ -17,7 +17,7 @@ Thinking of adding a new feature? Cool! [Open an issue](https://github.com/MohGo
 
 We love pull requests. Here’s a quick guide:
 
-1. [Fork this repository](https://github.com/MohGovIL/hamagen-react-native/) and then clone it locally:
+1. [Fork this repository](https://github.com/<YOUR_USERNAME>/hamagen-react-native/) and then clone it locally:
 
   ```bash
   git clone https://github.com/MohGovIL/hamagen-react-native/
